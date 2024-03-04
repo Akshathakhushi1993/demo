@@ -1,0 +1,130 @@
+Demo
+----
+01-03-2024
+----------
+Full stack Development
+----------------------
+
+combination of backend and frontend
+-----------------------------------
+
+Language
+--------
+it is a way of communication.
+suppose if we need to comminicate with computer then what we have to do
+we should use programing language
+
+what is programing language?
+communicating with computer system
+so,you might have researched with many PL in udemy,youtube and from friends and family memebers 
+shall we list some them
+1)python
+2)java
+3)sql
+4)ruby
+5)c#
+--when we are listing pl language.i got some doubt so,there might be how many PL.
+(There are morethan 3k then how do we choose the PL to learn based on the scope)
+--And which was the first PL launched to know this we should under the next concept i.e evolulation of PL
+
+Evolution of PL
+----------------
+--Go to google and search for that(Evolution of programming languages)
+--i think now we can understand something from that picture we can understand what was the first
+programming language
+
+1)Machine level language
+what language does a system understand i.e 0's and 1's
+--specially designed for machine understanding
+--we were able to perform basic calculation 
+--even addition was 1+2= one in binary + in binary and 2 in binary
+2)Assembly level language
+--its a low level language
+--it was designed for human understanding purpose
+--example: 2 add 3 now we can see both num and alphabets so how to system understand
+now we need a translator and that translator is called assembler
+Assembler is something which converts lll into mll
+3)High level language
+--it was designed for human understanding
+--And the popular programming language is C,COBOL AND FORTRAIN
+--so 'C' is called actually midddle level language why?
+--it has features of high level language features and low level language features 
+i.e pointing
+directly to the system memory with pointers
+--it is called mother of many PL.why?
+--example we will go to ATM so in order with withdraw what is the condition
+this conditions are first desgined in c then used by other programming language
+4)OOPS(object oriented programming language)
+--what is oops?take sometime and revert backend
+--using oops we can solve real-world problems(or)we can deal with real world objects
+(or)we can solve day to day life problems
+--lets take one example
+10years ago there was no zomato
+what is the problem statement?
+what we were doing?
+--go to restraunt
+--check the menu
+--place the order
+--payment
+--wait and collect
+we cannot solve this without oops 
+--shall we list some application
+zomato,swiggy and uber
+--what happens when we start youtube we will not come out of that very quickly right 
+because application is designed 
+in that way so that will be next evolution
+--A.I(Artifical intelligence)
+what it does?
+if you consider zomato,uber will we uninstall once we are done so what we are discussing 
+its not about
+PL its about application.then what is application?
+what is software?
+--Desktop application
+	--Notepad,msoffice
+	adv
+	--we dont need internet
+	disav
+	--it doesnt work without internet
+	--stand alone application
+--web application
+	-- Facbook,instagram,excel....
+	--static  and  dynamic
+	exceler			--instagram,ticket booking
+	where everyone will have samething
+	--single page application and multiple application
+
+--we can create a responsive webpage
+what is responsive website
+--so,now i want to make an application like flipkart,Amazon
+--just now we listed some application what might be required.we will be using this
+
+Architechture of fullstack
+---------------------------
+1)Frontend
+2)Backend
+3)Database
+so,what is frontend,backend and database
+frontend
+--presentation layer
+--what user sees
+
+backend
+--supposse  if you have clicked on buying a ticket.you cant right way go buy we have to do some calculation to check
+whether the avaliablity is there or not
+--so what i mean to say is we check business logic
+--to store all the data we need database
+
+so,what are the programming languages we have in frontend and backend
+--html
+--css
+--js
+--bootstrap
+--react
+--angular
+
+backend
+--core java[j2sc]
+write the architecture and show
+
+
+
